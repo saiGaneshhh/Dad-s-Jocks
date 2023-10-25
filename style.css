@@ -1,0 +1,23 @@
+.parent{
+    box-shadow:  blueviolet 0px 22px 70px 4px;
+    text-align: center;
+    height:400px ;
+    padding-top: 20px;
+    width: 600px;
+    margin-left: 500px;
+    margin-top: 150px;
+    background-color: white;
+}
+.button{
+    padding-top: 150px;
+}
+.but{
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+    color: blueviolet;
+}
+#content{
+    padding-top: 60px;
+}
